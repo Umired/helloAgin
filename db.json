@@ -1,3 +1,36 @@
+
+Skip to content
+Pull requests
+Issues
+Marketplace
+Explore
+@Umired
+Umired /
+helloAgin
+
+1
+0
+
+    0
+
+Code
+Issues
+Pull requests
+Actions
+Projects
+Wiki
+Security
+Insights
+
+    Settings
+
+helloAgin/db.json
+@Umired
+Umired Create db.json
+Latest commit 4f6cfec 1 hour ago
+History
+1 contributor
+927 lines (926 sloc) 47.9 KB
 	
 language	"English"
 startmenu.new_game	"9"
@@ -171,9 +204,9 @@ tribes.kickoo.info	"White sandy beaches with coconut palms. Abundance of fruit a
 tribes.hoodrick	"Hoodrick"
 tribes.hoodrick.info	"The yellow autumn leaves of the {0} woods are perfect hideouts for its peculiar mushroom stuffing inhabitants. \n\n{0} starts the game with the '{1}' tech."
 tribes.luxidoor	"Luxidoor"
-tribes.luxidoor.info	"The {0} love expensive things, jewels, rare spices and exclusive ornaments. That is also why they are the most expensive tribe in Polytopia!\n\nTheir citizens lead very comfortable lives, draped in the finest purple silk. But will they survive outside the walls of their beloved capital?  \n\n{0} starts the game with a huge walled capital."
+tribes.luxidoor.info	"Nincs egy szál cigid?"
 tribes.vengir	"Vengir"
-tribes.vengir.info	"Frowned upon by the other tribes and pushed into the unpleasant wastelands. Will they tolerate this injustice or rise to fight back?  \n\n{0} start the game with the '{1}' tech and a powerful Swordman."
+tribes.vengir.info	"jónapt"
 tribes.zebasi	"Zebasi"
 tribes.zebasi.info	"{0} thrive on the warm savannah, cultivating the rich soil to provide food for their mighty population. \n\n{0} starts the game with the '{1}' tech."
 tribes.zebasi.news	"All profits from the Zebasi tribe is invested in solar energy projects."
@@ -182,13 +215,13 @@ tribes.aimo.info	"The tranquil and wise {0} tribe inhabits the harshest, windies
 tribes.aquarion	"Aquarion"
 tribes.aquarion.info	"From the deep oceans a long lost civilization appears! Their extreme isolation has given them special aquatic abilities that are unknown to the other more human tribes.\n\n{0} have a slightly different tech tree and have access to the unique amphibious turtle units that no other tribe can train."
 tribes.quetzali	"Quetzali"
-tribes.quetzali.info	"The {0} tribe worship the bird gods of the red soil and live in harmony with the natural symmetry of their cubistic jungles. They are commonly seen riding huge flightless birds. \n\n{0} starts the game with the '{1}' tech."
+tribes.quetzali.info	"long"
 tribes.elyrion	"∑∫ỹriȱŋ"
-tribes.elyrion.info	"The mysterious {0} defend their woodland homes with colorful magic and the ferocity of fire-breathing dragons! \n\nThey regard Nature as a holy spirit and cannot hunt animals or chop down trees, instead they start the game with the unique Enchantment tech that can turn regular animals into powerful monsters."
+tribes.elyrion.info	"HELLO THERE"
 tribes.yadakk	"Yădakk"
-tribes.yadakk.info	"The {0} started out as a nomadic tribe in the beautiful harsh Khalee plains. Now they are the traders of the square, connecting their empire with impressive trade routes. \n\n{0} starts the game with the '{1}' tech."
+tribes.yadakk.info	"rövid leírás..."
 tribes.polaris	"Polaris"
-tribes.polaris.info	"The {0} have lain trapped in the far reaches of the freezing tundra for eons, but were blessed by the unknowable Gaami with the power to expand their unnatural icy terrain farther than the weather permits. \n\nWith the might of sleds and Mamoos, the mystical {0} are determined to entomb the Square in ice and transform the land into a frigid paradise. \n\n{0} starts the game with the ability to freeze surrounding terrain using Moonies."
+tribes.polaris.info	"Ennek a törzsnek olyan hosszú a leírása, hogy nem tudtam betenni egy sorba a json fájlban xd"
 building.capital.owner	"{0} is the {1} capital"
 building.capital.owner.former	"{0} is the former capital of the {1} empire, currently occupied by {2} forces"
 building.city.owner	"{0} is a city in the {1} empire"
@@ -925,3 +958,18 @@ friendlist.friendshipstate.accepted	"Friend request accepted. You are both frien
 friendlist.friendshipstate.sentrequest	"Friend request sent. Waiting for response."
 friendlist.friendshipstate.receivedrequest	"{0} has sent you a friend request. If you accept it possible for you to invite each other to multiplayer games."
 friendlist.friendshipstate.rejected	"Friend request rejected."
+
+    © 2020 GitHub, Inc.
+    Terms
+    Privacy
+    Security
+    Status
+    Help
+
+    Contact GitHub
+    Pricing
+    API
+    Training
+    Blog
+    About
+
