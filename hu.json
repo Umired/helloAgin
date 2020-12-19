@@ -1,4 +1,4 @@
-{
+
 {
 language	"Hungarian"
 startmenu.new_game	"stárt nyúv gélym"
@@ -927,4 +927,4 @@ friendlist.friendshipstate.sentrequest	"Friend request sent. Waiting for respons
 friendlist.friendshipstate.receivedrequest	"{0} has sent you a friend request. If you accept it possible for you to invite each other to multiplayer games."
 friendlist.friendshipstate.rejected	"Friend request rejected."
 }
-}
+
